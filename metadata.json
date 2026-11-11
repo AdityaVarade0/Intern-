@@ -1,0 +1,8 @@
+{
+  "name": "InternLaunch India",
+  "description": "India's premier AI-powered internship discovery platform connecting students and early-career talent in Bengaluru, Hyderabad, Pune, Gurugram, and remote with top internships.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
